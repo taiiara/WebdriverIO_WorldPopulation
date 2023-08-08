@@ -1,0 +1,8 @@
+2023-08-03T13:49:25.671Z INFO @wdio/local-runner: Run worker command: run
+2023-08-03T13:49:25.687Z ERROR @wdio/local-runner: Failed launching test session: Error: Couldn't find plugin "dot" reporter, neither as wdio scoped package "@wdio/dot-reporter" nor as community package "wdio-dot-reporter". Please make sure you have it installed!
+    at initialisePlugin (file:///C:/webdriverio-test/node_modules/@wdio/utils/build/initialisePlugin.js:36:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BaseReporter._loadReporter (file:///C:/webdriverio-test/node_modules/@wdio/runner/build/reporter.js:178:30)
+    at async Promise.all (index 0)
+    at async BaseReporter.initReporters (file:///C:/webdriverio-test/node_modules/@wdio/runner/build/reporter.js:23:27)
+    at async Runner.run (file:///C:/webdriverio-test/node_modules/@wdio/runner/build/index.js:68:9)

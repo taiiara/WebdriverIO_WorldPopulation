@@ -1,0 +1,28 @@
+2023-08-03T13:49:22.647Z WARN @wdio/config:ConfigParser: pattern test/spec/** did not match any file
+2023-08-03T13:49:22.649Z WARN @wdio/config:ConfigParser: pattern group/spec/** did not match any file
+2023-08-03T13:49:22.650Z WARN @wdio/config:ConfigParser: pattern test/spec/multibrowser/** did not match any file
+2023-08-03T13:49:22.651Z WARN @wdio/config:ConfigParser: pattern test/spec/mobile/** did not match any file
+2023-08-03T13:49:22.652Z WARN @wdio/config:ConfigParser: pattern test/spec/** did not match any file
+2023-08-03T13:49:22.653Z WARN @wdio/config:ConfigParser: pattern group/spec/** did not match any file
+2023-08-03T13:49:22.653Z WARN @wdio/config:ConfigParser: pattern test/spec/multibrowser/** did not match any file
+2023-08-03T13:49:22.654Z WARN @wdio/config:ConfigParser: pattern test/spec/mobile/** did not match any file
+2023-08-03T13:49:22.655Z WARN @wdio/config:ConfigParser: pattern test/ffOnly/* did not match any file
+2023-08-03T13:49:22.678Z INFO @wdio/cli:launcher: Run onPrepare hook
+2023-08-03T13:49:22.681Z WARN @wdio/config:ConfigParser: pattern test/spec/** did not match any file
+2023-08-03T13:49:22.682Z WARN @wdio/config:ConfigParser: pattern group/spec/** did not match any file
+2023-08-03T13:49:22.683Z WARN @wdio/config:ConfigParser: pattern test/spec/multibrowser/** did not match any file
+2023-08-03T13:49:22.684Z WARN @wdio/config:ConfigParser: pattern test/spec/mobile/** did not match any file
+2023-08-03T13:49:22.685Z WARN @wdio/config:ConfigParser: pattern test/spec/** did not match any file
+2023-08-03T13:49:22.686Z WARN @wdio/config:ConfigParser: pattern group/spec/** did not match any file
+2023-08-03T13:49:22.687Z WARN @wdio/config:ConfigParser: pattern test/spec/multibrowser/** did not match any file
+2023-08-03T13:49:22.688Z WARN @wdio/config:ConfigParser: pattern test/spec/mobile/** did not match any file
+2023-08-03T13:49:22.688Z WARN @wdio/config:ConfigParser: pattern test/ffOnly/* did not match any file
+2023-08-03T13:49:22.689Z INFO @wdio/cli:launcher: Run onWorkerStart hook
+2023-08-03T13:49:22.689Z INFO @wdio/local-runner: Start worker 0-0 with arg: ./wdio.conf.js
+2023-08-03T13:49:24.207Z INFO @wdio/cli:launcher: Run onWorkerEnd hook
+2023-08-03T13:49:24.218Z INFO @wdio/cli:launcher: Run onWorkerStart hook
+2023-08-03T13:49:24.219Z INFO @wdio/local-runner: Start worker 0-0 with arg: ./wdio.conf.js
+2023-08-03T13:49:25.776Z INFO @wdio/cli:launcher: Run onWorkerEnd hook
+2023-08-03T13:49:25.776Z INFO @wdio/cli:launcher: Run onComplete hook
+2023-08-03T13:49:25.810Z INFO @wdio/local-runner: Shutting down spawned worker
+2023-08-03T13:49:26.073Z INFO @wdio/local-runner: Waiting for 0 to shut down gracefully
